@@ -1,0 +1,4 @@
+select id, Name, MailingCity from Contact where MailingCity =' '
+
+
+Select id, name , phone from account WHERE  (phone !=null or  website !=null) and accountNumber !=null

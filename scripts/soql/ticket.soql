@@ -1,0 +1,1 @@
+select ID, Nmae, Status__c, subject__c, priority__c, from salesforce_ticket__c
